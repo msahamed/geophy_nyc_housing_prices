@@ -1,5 +1,6 @@
 .ipynb_checkpoints/geophy-checkpoint.ipynb
-*.ipynb_checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
 glove.42B.300d.txt
 glove.6B.100d.txt
 new_data/
@@ -26,7 +27,6 @@ __pycache__
 *.xlsx
 *.xlsx#
 *.geojson
-.ipynb_checkpoints
 .tox
 .DS_Store
 \#*#
